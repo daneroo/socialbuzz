@@ -1,0 +1,16 @@
+{ 
+  "name": "scrape", 
+  "version": "0.1.0",
+  "description": "filter scrape", 
+  "keywords": ["twitter","streaming","oauth"], 
+  "author": "daneroo  ", 
+  "repository": { 
+    "type": "git", 
+    "url": "git@github.com:Macadamian/FocalPoint.git"
+  }, 
+  "dependencies": { 
+    "ntwitter": ">=0"
+  }, 
+  "engines": {"node":">=0.4.0 < 0.7.0"}, 
+  "main": "main.js"
+}
