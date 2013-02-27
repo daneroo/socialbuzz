@@ -2,570 +2,570 @@
   {
     "conference": "Eastern",
     "conferenceRecord": [
-      29,
-      14
+      32,
+      16
     ],
     "division": "Atlantic",
     "divisionRecord": [
       8,
-      5
-    ],
-    "gamesBehind": 0,
-    "homeRecord": [
-      21,
-      9
-    ],
-    "last10Record": [
-      7,
-      3
-    ],
-    "losses": 25,
-    "name": "Boston",
-    "notes": "4x",
-    "percentage": 0.59,
-    "roadRecord": [
-      15,
-      16
-    ],
-    "wins": 36
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      24,
-      19
-    ],
-    "division": "Atlantic",
-    "divisionRecord": [
-      6,
       6
-    ],
-    "gamesBehind": 4.5,
-    "homeRecord": [
-      20,
-      11
-    ],
-    "last10Record": [
-      6,
-      4
-    ],
-    "losses": 29,
-    "name": "New York",
-    "notes": "7",
-    "percentage": 0.517,
-    "roadRecord": [
-      11,
-      18
-    ],
-    "wins": 31
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      24,
-      18
-    ],
-    "division": "Atlantic",
-    "divisionRecord": [
-      6,
-      6
-    ],
-    "gamesBehind": 4.5,
-    "homeRecord": [
-      19,
-      13
-    ],
-    "last10Record": [
-      3,
-      7
-    ],
-    "losses": 29,
-    "name": "Philadelphia",
-    "notes": "8",
-    "percentage": 0.517,
-    "roadRecord": [
-      12,
-      16
-    ],
-    "wins": 31
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      16,
-      28
-    ],
-    "division": "Atlantic",
-    "divisionRecord": [
-      5,
-      6
-    ],
-    "gamesBehind": 14.5,
-    "homeRecord": [
-      9,
-      22
-    ],
-    "last10Record": [
-      5,
-      5
-    ],
-    "losses": 40,
-    "name": "New Jersey",
-    "notes": "o",
-    "percentage": 0.355,
-    "roadRecord": [
-      13,
-      18
-    ],
-    "wins": 22
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      14,
-      30
-    ],
-    "division": "Atlantic",
-    "divisionRecord": [
-      6,
-      8
-    ],
-    "gamesBehind": 14.5,
-    "homeRecord": [
-      12,
-      20
-    ],
-    "last10Record": [
-      5,
-      5
-    ],
-    "losses": 40,
-    "name": "Toronto",
-    "notes": "o",
-    "percentage": 0.355,
-    "roadRecord": [
-      10,
-      20
-    ],
-    "wins": 22
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      35,
-      9
-    ],
-    "division": "Central",
-    "divisionRecord": [
-      11,
-      1
     ],
     "gamesBehind": 0,
     "homeRecord": [
       24,
-      7
-    ],
-    "last10Record": [
-      6,
-      4
-    ],
-    "losses": 15,
-    "name": "Chicago",
-    "notes": "1c",
-    "percentage": 0.754,
-    "roadRecord": [
-      22,
-      8
-    ],
-    "wins": 46
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      26,
-      17
-    ],
-    "division": "Central",
-    "divisionRecord": [
-      7,
-      3
-    ],
-    "gamesBehind": 7,
-    "homeRecord": [
-      21,
-      8
-    ],
-    "last10Record": [
-      9,
-      1
-    ],
-    "losses": 22,
-    "name": "Indiana",
-    "notes": "3x",
-    "percentage": 0.639,
-    "roadRecord": [
-      18,
-      14
-    ],
-    "wins": 39
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      22,
-      20
-    ],
-    "division": "Central",
-    "divisionRecord": [
-      7,
-      7
-    ],
-    "gamesBehind": 16.5,
-    "homeRecord": [
-      15,
-      15
-    ],
-    "last10Record": [
-      6,
-      4
-    ],
-    "losses": 31,
-    "name": "Milwaukee",
-    "notes": "",
-    "percentage": 0.483,
-    "roadRecord": [
-      14,
-      16
-    ],
-    "wins": 29
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      17,
-      26
-    ],
-    "division": "Central",
-    "divisionRecord": [
-      3,
-      10
-    ],
-    "gamesBehind": 23.5,
-    "homeRecord": [
-      15,
-      14
-    ],
-    "last10Record": [
-      4,
-      6
-    ],
-    "losses": 38,
-    "name": "Detroit",
-    "notes": "o",
-    "percentage": 0.367,
-    "roadRecord": [
-      7,
-      24
-    ],
-    "wins": 22
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      12,
-      31
-    ],
-    "division": "Central",
-    "divisionRecord": [
-      3,
-      10
-    ],
-    "gamesBehind": 25,
-    "homeRecord": [
-      10,
-      20
-    ],
-    "last10Record": [
-      3,
-      7
-    ],
-    "losses": 39,
-    "name": "Cleveland",
-    "notes": "o",
-    "percentage": 0.339,
-    "roadRecord": [
-      10,
-      19
-    ],
-    "wins": 20
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      33,
-      10
-    ],
-    "division": "Southeast",
-    "divisionRecord": [
-      9,
-      3
-    ],
-    "gamesBehind": 0,
-    "homeRecord": [
-      25,
-      4
-    ],
-    "last10Record": [
-      6,
-      4
-    ],
-    "losses": 17,
-    "name": "Miami",
-    "notes": "2se",
-    "percentage": 0.717,
-    "roadRecord": [
-      18,
-      13
-    ],
-    "wins": 43
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      29,
-      16
-    ],
-    "division": "Southeast",
-    "divisionRecord": [
-      11,
-      3
-    ],
-    "gamesBehind": 7.5,
-    "homeRecord": [
-      19,
       9
-    ],
-    "last10Record": [
-      6,
-      4
-    ],
-    "losses": 25,
-    "name": "Atlanta",
-    "notes": "5x",
-    "percentage": 0.59,
-    "roadRecord": [
-      17,
-      16
-    ],
-    "wins": 36
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      29,
-      17
-    ],
-    "division": "Southeast",
-    "divisionRecord": [
-      7,
-      7
-    ],
-    "gamesBehind": 7.5,
-    "homeRecord": [
-      20,
-      12
-    ],
-    "last10Record": [
-      4,
-      6
-    ],
-    "losses": 25,
-    "name": "Orlando",
-    "notes": "6x",
-    "percentage": 0.59,
-    "roadRecord": [
-      16,
-      13
-    ],
-    "wins": 36
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      11,
-      32
-    ],
-    "division": "Southeast",
-    "divisionRecord": [
-      4,
-      7
-    ],
-    "gamesBehind": 28.5,
-    "homeRecord": [
-      8,
-      22
-    ],
-    "last10Record": [
-      3,
-      7
-    ],
-    "losses": 46,
-    "name": "Washington",
-    "notes": "o",
-    "percentage": 0.246,
-    "roadRecord": [
-      7,
-      24
-    ],
-    "wins": 15
-  },
-  {
-    "conference": "Eastern",
-    "conferenceRecord": [
-      5,
-      39
-    ],
-    "division": "Southeast",
-    "divisionRecord": [
-      1,
-      12
-    ],
-    "gamesBehind": 36,
-    "homeRecord": [
-      4,
-      25
-    ],
-    "last10Record": [
-      0,
-      10
-    ],
-    "losses": 53,
-    "name": "Charlotte",
-    "notes": "o",
-    "percentage": 0.117,
-    "roadRecord": [
-      3,
-      28
-    ],
-    "wins": 7
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      31,
-      12
-    ],
-    "division": "Northwest",
-    "divisionRecord": [
-      10,
-      2
-    ],
-    "gamesBehind": 0,
-    "homeRecord": [
-      25,
-      6
-    ],
-    "last10Record": [
-      5,
-      5
-    ],
-    "losses": 17,
-    "name": "Oklahoma City",
-    "notes": "2nw",
-    "percentage": 0.721,
-    "roadRecord": [
-      19,
-      11
-    ],
-    "wins": 44
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      19,
-      25
-    ],
-    "division": "Northwest",
-    "divisionRecord": [
-      4,
-      7
-    ],
-    "gamesBehind": 10,
-    "homeRecord": [
-      19,
-      12
     ],
     "last10Record": [
       7,
       3
     ],
     "losses": 27,
-    "name": "Denver",
-    "notes": "6",
-    "percentage": 0.557,
+    "name": "Boston",
+    "notes": "4a",
+    "percentage": 0.591,
     "roadRecord": [
       15,
-      15
+      18
     ],
-    "wins": 34
+    "wins": 39
   },
   {
-    "conference": "Western",
+    "conference": "Eastern",
     "conferenceRecord": [
-      22,
-      23
+      28,
+      20
     ],
-    "division": "Northwest",
+    "division": "Atlantic",
     "divisionRecord": [
-      7,
-      4
+      8,
+      6
     ],
-    "gamesBehind": 12.5,
+    "gamesBehind": 3,
     "homeRecord": [
       22,
-      8
+      11
     ],
     "last10Record": [
-      5,
-      5
+      7,
+      3
     ],
     "losses": 30,
-    "name": "Utah",
-    "notes": "",
-    "percentage": 0.516,
+    "name": "New York",
+    "notes": "7x",
+    "percentage": 0.545,
     "roadRecord": [
-      10,
-      22
+      14,
+      19
     ],
-    "wins": 32
+    "wins": 36
   },
   {
-    "conference": "Western",
+    "conference": "Eastern",
     "conferenceRecord": [
-      20,
-      24
+      28,
+      20
     ],
-    "division": "Northwest",
+    "division": "Atlantic",
     "divisionRecord": [
-      4,
+      7,
+      6
+    ],
+    "gamesBehind": 4,
+    "homeRecord": [
+      19,
+      14
+    ],
+    "last10Record": [
+      6,
+      4
+    ],
+    "losses": 31,
+    "name": "Philadelphia",
+    "notes": "8x",
+    "percentage": 0.53,
+    "roadRecord": [
+      16,
+      17
+    ],
+    "wins": 35
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      15,
+      33
+    ],
+    "division": "Atlantic",
+    "divisionRecord": [
+      7,
       8
     ],
-    "gamesBehind": 16.5,
+    "gamesBehind": 16,
     "homeRecord": [
+      13,
+      20
+    ],
+    "last10Record": [
+      3,
+      7
+    ],
+    "losses": 43,
+    "name": "Toronto",
+    "notes": "o",
+    "percentage": 0.348,
+    "roadRecord": [
+      10,
+      23
+    ],
+    "wins": 23
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      16,
+      32
+    ],
+    "division": "Atlantic",
+    "divisionRecord": [
+      5,
+      9
+    ],
+    "gamesBehind": 17,
+    "homeRecord": [
+      9,
+      24
+    ],
+    "last10Record": [
+      3,
+      7
+    ],
+    "losses": 44,
+    "name": "New Jersey",
+    "notes": "o",
+    "percentage": 0.333,
+    "roadRecord": [
+      13,
+      20
+    ],
+    "wins": 22
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      38,
+      10
+    ],
+    "division": "Central",
+    "divisionRecord": [
+      13,
+      1
+    ],
+    "gamesBehind": 0,
+    "homeRecord": [
+      26,
+      7
+    ],
+    "last10Record": [
+      7,
+      3
+    ],
+    "losses": 16,
+    "name": "Chicago",
+    "notes": "1e",
+    "percentage": 0.758,
+    "roadRecord": [
+      24,
+      9
+    ],
+    "wins": 50
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      29,
+      19
+    ],
+    "division": "Central",
+    "divisionRecord": [
+      9,
+      4
+    ],
+    "gamesBehind": 8,
+    "homeRecord": [
+      23,
+      10
+    ],
+    "last10Record": [
+      8,
+      2
+    ],
+    "losses": 24,
+    "name": "Indiana",
+    "notes": "3x",
+    "percentage": 0.636,
+    "roadRecord": [
+      19,
+      14
+    ],
+    "wins": 42
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      24,
+      24
+    ],
+    "division": "Central",
+    "divisionRecord": [
+      7,
+      8
+    ],
+    "gamesBehind": 19,
+    "homeRecord": [
+      17,
+      16
+    ],
+    "last10Record": [
+      3,
+      7
+    ],
+    "losses": 35,
+    "name": "Milwaukee",
+    "notes": "o",
+    "percentage": 0.47,
+    "roadRecord": [
+      14,
+      19
+    ],
+    "wins": 31
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
       20,
+      28
+    ],
+    "division": "Central",
+    "divisionRecord": [
+      4,
+      11
+    ],
+    "gamesBehind": 25,
+    "homeRecord": [
+      18,
+      15
+    ],
+    "last10Record": [
+      4,
+      6
+    ],
+    "losses": 41,
+    "name": "Detroit",
+    "notes": "o",
+    "percentage": 0.379,
+    "roadRecord": [
+      7,
+      26
+    ],
+    "wins": 25
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      13,
+      35
+    ],
+    "division": "Central",
+    "divisionRecord": [
+      3,
+      12
+    ],
+    "gamesBehind": 29,
+    "homeRecord": [
+      11,
+      22
+    ],
+    "last10Record": [
+      2,
+      8
+    ],
+    "losses": 45,
+    "name": "Cleveland",
+    "notes": "o",
+    "percentage": 0.318,
+    "roadRecord": [
+      10,
+      23
+    ],
+    "wins": 21
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      35,
+      13
+    ],
+    "division": "Southeast",
+    "divisionRecord": [
+      9,
+      5
+    ],
+    "gamesBehind": 0,
+    "homeRecord": [
+      28,
+      5
+    ],
+    "last10Record": [
+      6,
+      4
+    ],
+    "losses": 20,
+    "name": "Miami",
+    "notes": "2se",
+    "percentage": 0.697,
+    "roadRecord": [
+      18,
+      15
+    ],
+    "wins": 46
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      31,
+      17
+    ],
+    "division": "Southeast",
+    "divisionRecord": [
+      11,
+      3
+    ],
+    "gamesBehind": 6,
+    "homeRecord": [
+      23,
+      10
+    ],
+    "last10Record": [
+      7,
+      3
+    ],
+    "losses": 26,
+    "name": "Atlanta",
+    "notes": "5x",
+    "percentage": 0.606,
+    "roadRecord": [
+      17,
+      16
+    ],
+    "wins": 40
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      30,
+      18
+    ],
+    "division": "Southeast",
+    "divisionRecord": [
+      8,
+      7
+    ],
+    "gamesBehind": 9,
+    "homeRecord": [
+      21,
       12
     ],
     "last10Record": [
       4,
       6
     ],
-    "losses": 34,
+    "losses": 29,
+    "name": "Orlando",
+    "notes": "6x",
+    "percentage": 0.561,
+    "roadRecord": [
+      16,
+      17
+    ],
+    "wins": 37
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      16,
+      32
+    ],
+    "division": "Southeast",
+    "divisionRecord": [
+      7,
+      7
+    ],
+    "gamesBehind": 26,
+    "homeRecord": [
+      11,
+      22
+    ],
+    "last10Record": [
+      8,
+      2
+    ],
+    "losses": 46,
+    "name": "Washington",
+    "notes": "o",
+    "percentage": 0.303,
+    "roadRecord": [
+      9,
+      24
+    ],
+    "wins": 20
+  },
+  {
+    "conference": "Eastern",
+    "conferenceRecord": [
+      5,
+      43
+    ],
+    "division": "Southeast",
+    "divisionRecord": [
+      1,
+      14
+    ],
+    "gamesBehind": 39,
+    "homeRecord": [
+      4,
+      29
+    ],
+    "last10Record": [
+      0,
+      10
+    ],
+    "losses": 59,
+    "name": "Charlotte",
+    "notes": "o",
+    "percentage": 0.106,
+    "roadRecord": [
+      3,
+      30
+    ],
+    "wins": 7
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      34,
+      14
+    ],
+    "division": "Northwest",
+    "divisionRecord": [
+      10,
+      3
+    ],
+    "gamesBehind": 0,
+    "homeRecord": [
+      26,
+      7
+    ],
+    "last10Record": [
+      6,
+      4
+    ],
+    "losses": 19,
+    "name": "Oklahoma City",
+    "notes": "2nw",
+    "percentage": 0.712,
+    "roadRecord": [
+      21,
+      12
+    ],
+    "wins": 47
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      22,
+      26
+    ],
+    "division": "Northwest",
+    "divisionRecord": [
+      6,
+      7
+    ],
+    "gamesBehind": 9,
+    "homeRecord": [
+      20,
+      13
+    ],
+    "last10Record": [
+      8,
+      2
+    ],
+    "losses": 28,
+    "name": "Denver",
+    "notes": "6x",
+    "percentage": 0.576,
+    "roadRecord": [
+      18,
+      15
+    ],
+    "wins": 38
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      25,
+      23
+    ],
+    "division": "Northwest",
+    "divisionRecord": [
+      9,
+      4
+    ],
+    "gamesBehind": 11,
+    "homeRecord": [
+      25,
+      8
+    ],
+    "last10Record": [
+      7,
+      3
+    ],
+    "losses": 30,
+    "name": "Utah",
+    "notes": "8x",
+    "percentage": 0.545,
+    "roadRecord": [
+      11,
+      22
+    ],
+    "wins": 36
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      20,
+      28
+    ],
+    "division": "Northwest",
+    "divisionRecord": [
+      4,
+      10
+    ],
+    "gamesBehind": 19,
+    "homeRecord": [
+      20,
+      13
+    ],
+    "last10Record": [
+      1,
+      9
+    ],
+    "losses": 38,
     "name": "Portland",
     "notes": "o",
-    "percentage": 0.452,
+    "percentage": 0.424,
     "roadRecord": [
       8,
-      22
+      25
     ],
     "wins": 28
   },
@@ -573,186 +573,186 @@
     "conference": "Western",
     "conferenceRecord": [
       19,
-      26
+      29
     ],
     "division": "Northwest",
     "divisionRecord": [
       4,
-      8
+      9
     ],
-    "gamesBehind": 19.5,
+    "gamesBehind": 21,
     "homeRecord": [
       13,
-      17
-    ],
-    "last10Record": [
-      0,
-      10
-    ],
-    "losses": 37,
-    "name": "Minnesota",
-    "notes": "o",
-    "percentage": 0.403,
-    "roadRecord": [
-      12,
       20
     ],
-    "wins": 25
+    "last10Record": [
+      1,
+      9
+    ],
+    "losses": 40,
+    "name": "Minnesota",
+    "notes": "o",
+    "percentage": 0.394,
+    "roadRecord": [
+      13,
+      20
+    ],
+    "wins": 26
   },
   {
     "conference": "Western",
     "conferenceRecord": [
-      30,
-      13
+      32,
+      16
     ],
     "division": "Pacific",
     "divisionRecord": [
-      8,
-      4
+      9,
+      5
     ],
     "gamesBehind": 0,
     "homeRecord": [
-      25,
-      6
+      26,
+      7
     ],
     "last10Record": [
-      8,
-      2
+      6,
+      4
     ],
-    "losses": 22,
+    "losses": 25,
     "name": "L.A. Lakers",
-    "notes": "3x",
-    "percentage": 0.639,
-    "roadRecord": [
-      14,
-      16
-    ],
-    "wins": 39
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      27,
-      18
-    ],
-    "division": "Pacific",
-    "divisionRecord": [
-      7,
-      6
-    ],
-    "gamesBehind": 1,
-    "homeRecord": [
-      23,
-      9
-    ],
-    "last10Record": [
-      8,
-      2
-    ],
-    "losses": 23,
-    "name": "L.A. Clippers",
-    "notes": "4x",
-    "percentage": 0.623,
+    "notes": "3p",
+    "percentage": 0.621,
     "roadRecord": [
       15,
-      14
-    ],
-    "wins": 38
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      22,
-      21
-    ],
-    "division": "Pacific",
-    "divisionRecord": [
-      8,
-      5
-    ],
-    "gamesBehind": 7,
-    "homeRecord": [
-      18,
-      11
-    ],
-    "last10Record": [
-      7,
-      3
-    ],
-    "losses": 29,
-    "name": "Phoenix",
-    "notes": "8",
-    "percentage": 0.525,
-    "roadRecord": [
-      14,
       18
     ],
-    "wins": 32
+    "wins": 41
   },
   {
     "conference": "Western",
     "conferenceRecord": [
-      15,
-      27
+      29,
+      19
     ],
     "division": "Pacific",
     "divisionRecord": [
       7,
       7
     ],
-    "gamesBehind": 16.5,
+    "gamesBehind": 1,
     "homeRecord": [
-      12,
-      18
+      24,
+      9
     ],
     "last10Record": [
-      2,
+      6,
+      4
+    ],
+    "losses": 26,
+    "name": "L.A. Clippers",
+    "notes": "5x",
+    "percentage": 0.606,
+    "roadRecord": [
+      16,
+      17
+    ],
+    "wins": 40
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      23,
+      25
+    ],
+    "division": "Pacific",
+    "divisionRecord": [
+      9,
+      5
+    ],
+    "gamesBehind": 8,
+    "homeRecord": [
+      19,
+      14
+    ],
+    "last10Record": [
+      4,
+      6
+    ],
+    "losses": 33,
+    "name": "Phoenix",
+    "notes": "o",
+    "percentage": 0.5,
+    "roadRecord": [
+      14,
+      19
+    ],
+    "wins": 33
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      16,
+      32
+    ],
+    "division": "Pacific",
+    "divisionRecord": [
+      7,
       8
     ],
-    "losses": 38,
+    "gamesBehind": 18,
+    "homeRecord": [
+      12,
+      21
+    ],
+    "last10Record": [
+      1,
+      9
+    ],
+    "losses": 43,
     "name": "Golden State",
     "notes": "o",
-    "percentage": 0.367,
+    "percentage": 0.348,
     "roadRecord": [
-      10,
-      20
+      11,
+      22
+    ],
+    "wins": 23
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      16,
+      32
+    ],
+    "division": "Pacific",
+    "divisionRecord": [
+      3,
+      10
+    ],
+    "gamesBehind": 19,
+    "homeRecord": [
+      16,
+      17
+    ],
+    "last10Record": [
+      3,
+      7
+    ],
+    "losses": 44,
+    "name": "Sacramento",
+    "notes": "o",
+    "percentage": 0.333,
+    "roadRecord": [
+      6,
+      27
     ],
     "wins": 22
   },
   {
     "conference": "Western",
     "conferenceRecord": [
-      15,
-      29
-    ],
-    "division": "Pacific",
-    "divisionRecord": [
-      2,
-      10
-    ],
-    "gamesBehind": 19,
-    "homeRecord": [
-      15,
-      15
-    ],
-    "last10Record": [
-      2,
-      8
-    ],
-    "losses": 41,
-    "name": "Sacramento",
-    "notes": "o",
-    "percentage": 0.328,
-    "roadRecord": [
-      5,
-      26
-    ],
-    "wins": 20
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      29,
+      35,
       13
     ],
     "division": "Southwest",
@@ -762,141 +762,141 @@
     ],
     "gamesBehind": 0,
     "homeRecord": [
-      25,
+      28,
       5
+    ],
+    "last10Record": [
+      10,
+      0
+    ],
+    "losses": 16,
+    "name": "San Antonio",
+    "notes": "1w",
+    "percentage": 0.758,
+    "roadRecord": [
+      22,
+      11
+    ],
+    "wins": 50
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      26,
+      22
+    ],
+    "division": "Southwest",
+    "divisionRecord": [
+      7,
+      8
+    ],
+    "gamesBehind": 9,
+    "homeRecord": [
+      26,
+      7
     ],
     "last10Record": [
       8,
       2
     ],
-    "losses": 16,
-    "name": "San Antonio",
-    "notes": "1sw",
-    "percentage": 0.729,
-    "roadRecord": [
-      18,
-      11
-    ],
-    "wins": 43
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      23,
-      22
-    ],
-    "division": "Southwest",
-    "divisionRecord": [
-      6,
-      8
-    ],
-    "gamesBehind": 8.5,
-    "homeRecord": [
-      22,
-      7
-    ],
-    "last10Record": [
-      7,
-      3
-    ],
     "losses": 25,
     "name": "Memphis",
-    "notes": "5",
-    "percentage": 0.583,
+    "notes": "4x",
+    "percentage": 0.621,
     "roadRecord": [
-      13,
+      15,
       18
     ],
-    "wins": 35
+    "wins": 41
   },
   {
     "conference": "Western",
     "conferenceRecord": [
-      24,
+      26,
       22
     ],
     "division": "Southwest",
     "divisionRecord": [
-      7,
+      8,
       5
     ],
-    "gamesBehind": 10.5,
+    "gamesBehind": 14,
     "homeRecord": [
-      21,
+      23,
       10
     ],
     "last10Record": [
       5,
       5
     ],
-    "losses": 28,
+    "losses": 30,
     "name": "Dallas",
-    "notes": "7",
-    "percentage": 0.548,
+    "notes": "7x",
+    "percentage": 0.545,
     "roadRecord": [
       13,
-      18
+      20
+    ],
+    "wins": 36
+  },
+  {
+    "conference": "Western",
+    "conferenceRecord": [
+      23,
+      25
+    ],
+    "division": "Southwest",
+    "divisionRecord": [
+      6,
+      8
+    ],
+    "gamesBehind": 16,
+    "homeRecord": [
+      22,
+      11
+    ],
+    "last10Record": [
+      3,
+      7
+    ],
+    "losses": 32,
+    "name": "Houston",
+    "notes": "o",
+    "percentage": 0.515,
+    "roadRecord": [
+      12,
+      21
     ],
     "wins": 34
   },
   {
     "conference": "Western",
     "conferenceRecord": [
-      21,
-      23
+      14,
+      34
     ],
     "division": "Southwest",
     "divisionRecord": [
-      5,
-      6
-    ],
-    "gamesBehind": 12,
-    "homeRecord": [
-      20,
+      3,
       11
     ],
-    "last10Record": [
-      5,
-      5
-    ],
-    "losses": 29,
-    "name": "Houston",
-    "notes": "",
-    "percentage": 0.525,
-    "roadRecord": [
-      12,
-      18
-    ],
-    "wins": 32
-  },
-  {
-    "conference": "Western",
-    "conferenceRecord": [
-      12,
-      31
-    ],
-    "division": "Southwest",
-    "divisionRecord": [
-      2,
-      9
-    ],
-    "gamesBehind": 25,
+    "gamesBehind": 29,
     "homeRecord": [
-      10,
+      11,
       22
     ],
     "last10Record": [
       6,
       4
     ],
-    "losses": 42,
+    "losses": 45,
     "name": "New Orleans",
     "notes": "o",
-    "percentage": 0.311,
+    "percentage": 0.318,
     "roadRecord": [
-      9,
-      20
+      10,
+      23
     ],
-    "wins": 19
+    "wins": 21
   }
 ]
